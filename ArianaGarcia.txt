@@ -1,2 +1,7 @@
 gg que si salga por favor
+<<<<<<< HEAD
 ultimo cambio por favor :(      )
+=======
+jejejeje
+ayuda
+>>>>>>> 3b43a2a116177f762f893168b5530c1c46f84332
