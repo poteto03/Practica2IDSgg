@@ -1,3 +1,7 @@
 Hola soy claudio V1
+<<<<<<< HEAD
 
 He aqui claudio nuevamente V3
+=======
+Nuevamente soy yo Claudio V2 
+>>>>>>> dfa6213aba77650bdaee278a091a35bae1c0b831
